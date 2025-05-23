@@ -1,2 +1,2 @@
-# image-Upload-Preview-Gallery
-image-Upload-Preview-Gallery
+
+https://aasthagupta471.github.io/image-Upload-Preview-Gallery/
