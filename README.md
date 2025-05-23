@@ -1,2 +1,1 @@
-
-https://aasthagupta471.github.io/image-Upload-Preview-Gallery/
+https://gallery123preview.netlify.app/
